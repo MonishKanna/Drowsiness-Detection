@@ -4,20 +4,27 @@ Welcome to the Drowsiness Detection project on GitHub! This project aims to dete
 
 ## Requirements
 
-Python 3.x
-OpenCV
-TensorFlow or PyTorch
-Dlib
-Numpy
+1) Python 3.x
+2) OpenCV
+3) TensorFlow or PyTorch
+4) Dlib
+5) Numpy
 
 ## Installation
 
 Clone the repository using git clone https://github.com/MonishKanna/Drowsiness-Detection.git
-Install the required libraries using pip install -r requirements.txt
 
 ## Dataset
 
 The data used for training and testing the model is not included in this repository.
+
+## Algorithms
+
+1) CNN
+2) SVM
+3) KNN
+4) Decision Tree
+5) Random Forest
 
 ## Note
 
